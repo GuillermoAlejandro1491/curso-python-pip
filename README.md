@@ -12,6 +12,7 @@ $ python3 main.py
 $ git clone 
 $ cd aplication
 $ source env/bin/activate
+$ python3 -m venv env
 $ pip3 install -r requirements.txt
 $ python3 main.py
 ```
